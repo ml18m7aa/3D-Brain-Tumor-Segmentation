@@ -55,6 +55,9 @@ For Evaluation Run evaluate.py
 
 
 ## Citations
+
+ * The source code was mainly inspired by the author David G Ellis, from https://github.com/ellisdg/3DUnetCNN.
+
 GBM Data Citation:
  * Spyridon Bakas, Hamed Akbari, Aristeidis Sotiras, Michel Bilello, Martin Rozycki, Justin Kirby, John Freymann, Keyvan Farahani, and Christos Davatzikos. (2017) Segmentation Labels and Radiomic Features for the Pre-operative Scans of the TCGA-GBM collection. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2017.KLXWJJ1Q
 
