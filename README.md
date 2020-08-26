@@ -21,7 +21,7 @@ nipype
 (nipype is required for preprocessing only) 
 
 3. preprocess.py give the path of your data-set folder to preprocess the image
-or you can download preprocess data directly from
+or you can download preprocessed data directly from
 [Here](https://drive.google.com/file/d/1mqWcs_PuisnbsclIhdZWcpsfgjZegtoL/view?usp=sharing)
 4. Run the training:
 
